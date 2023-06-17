@@ -1,0 +1,10 @@
+*
+!*/
+!*.cpp
+!*.java
+!*.pdf
+!.gitignore
+!*.png
+!*.md
+tempCodeRunnerFile.*
+*tes*
